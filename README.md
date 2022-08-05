@@ -26,5 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Skills 
 [![My Skills](https://skillicons.dev/icons?i=linux,python,bash,html,css)](https://skillicons.dev)
+  
+## Graph
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=TheWatcherMultiversal&theme=elegant&hide_border=true&area=true)
