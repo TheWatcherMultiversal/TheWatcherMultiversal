@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWatcherMultiversal&layout=compact&hide_border=true&title_color=ffdd7f&text_color=c3f4ff&bg_color=0d1117" />
 </div>
 
-### Skills 
 <div align="center">  
 <a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Linux-1e1f20?style=for-the-badge&logo=linux&logoColor=yellow"</a>
 <a href="https://www.reddit.com/user/ThePenguinUniverse" target="_blank"><img src="https://img.shields.io/badge/-Python-040040?style=for-the-badge&logo=python&logoColor=green"</a>
