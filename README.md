@@ -1,10 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffdd7f&height=180&section=header&text=TheWatcherMultiversal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=482100&height=180&section=header&text=TheWatcherMultiversal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 - 👋 Hi, I’m @TheWatcherMultiversal
 - 👀 I’m interested in to contribute to the free and open source community.
 - 🌱 I’m currently learning programming, networks and Linux systems.
-- 💞️ I’m looking to collaborate on the free and open source community.
-- 📫 How to reach me <universepenguin@protonmail.com>
+
+<div align="center">  
+<a href="thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1a61ff?style=for-the-badge&logo=facebook&logoColor=white"</a>
+<a href="thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Reddit-f1753a?style=for-the-badge&logo=reddit&logoColor=white"</a>
+<a href="thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Twitter-40c0f1?style=for-the-badge&logo=twitter&logoColor=white"</a>
+<a href="thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div>
 
 <!---
 TheWatcherMultiversal/TheWatcherMultiversal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
