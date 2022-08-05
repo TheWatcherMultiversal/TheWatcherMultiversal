@@ -6,7 +6,7 @@
 
 <div align="center">  
 <a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1a61ff?style=for-the-badge&logo=facebook&logoColor=white"</a>
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Reddit-f1753a?style=for-the-badge&logo=reddit&logoColor=white"</a>
+<a href="https://www.reddit.com/user/ThePenguinUniverse" target="_blank"><img src="https://img.shields.io/badge/-Reddit-f1753a?style=for-the-badge&logo=reddit&logoColor=white"</a>
 <a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Twitter-40c0f1?style=for-the-badge&logo=twitter&logoColor=white"</a>
 <a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div>
