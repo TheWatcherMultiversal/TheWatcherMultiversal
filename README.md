@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheWatcherMultiversal&layout=compact&hide_border=true&title_color=ffdd7f&text_color=c3f4ff&bg_color=0d1117" />
 </div>
 
+### My skills
 
+[![My Skills](https://skillicons.dev/icons?i=linux,python,bash,html,css)](https://skillicons.dev)
