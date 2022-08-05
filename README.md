@@ -25,10 +25,10 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 <div align="center">  
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Linux-1e1f20?style=for-the-badge&logo=linux&logoColor=yellow"</a>
-<a href="https://www.reddit.com/user/ThePenguinUniverse" target="_blank"><img src="https://img.shields.io/badge/-Python-141b4a?style=for-the-badge&logo=python&logoColor=green"</a>
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Html-542300?style=for-the-badge&logo=html5&logoColor=orange"</a>
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Css-024550?style=for-the-badge&logo=css3&logoColor=cyan"</a>
+<a href="#!" target="_blank"><img src="https://img.shields.io/badge/-Linux-1e1f20?style=for-the-badge&logo=linux&logoColor=yellow"</a>
+<a href="#!" target="_blank"><img src="https://img.shields.io/badge/-Python-141b4a?style=for-the-badge&logo=python&logoColor=green"</a>
+<a href="#!" target="_blank"><img src="https://img.shields.io/badge/-Html-542300?style=for-the-badge&logo=html5&logoColor=orange"</a>
+<a href="#!" target="_blank"><img src="https://img.shields.io/badge/-Css-024550?style=for-the-badge&logo=css3&logoColor=cyan"</a>
 </div>
   
 ## Graph
