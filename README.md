@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=482100&height=180&section=header&text=TheWatcherMultiversal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8185ffde&height=180&section=header&text=TheWatcherMultiversal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 - 👋 Hi, I’m @TheWatcherMultiversal
 - 👀 I’m interested in to contribute to the free and open source community.
