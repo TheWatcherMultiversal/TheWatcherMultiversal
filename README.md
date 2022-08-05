@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffb870de&height=160&section=header&text=TheWatcherMultiversal&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 <div align="center">  
 <img src="https://www.discordianos.com/uploads/monthly_2020_04/34afe6f180c7a3005fc074aaebebf3a2.gif.4c8789e456e97e4ffca112b6b493f8b6.gif" width="150" height="150" />
 </div>
