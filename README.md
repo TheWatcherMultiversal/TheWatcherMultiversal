@@ -1,18 +1,12 @@
-<div align="center">  
-<img src="https://www.discordianos.com/uploads/monthly_2020_04/34afe6f180c7a3005fc074aaebebf3a2.gif.4c8789e456e97e4ffca112b6b493f8b6.gif" width="150" height="150" />
-</div>
-
-<div align="center">  
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1a61ff?style=for-the-badge&logo=facebook&logoColor=white"</a>
-<a href="https://www.reddit.com/user/ThePenguinUniverse" target="_blank"><img src="https://img.shields.io/badge/-Reddit-f1753a?style=for-the-badge&logo=reddit&logoColor=white"</a>
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Twitter-40c0f1?style=for-the-badge&logo=twitter&logoColor=white"</a>
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-
 <!---
 TheWatcherMultiversal/TheWatcherMultiversal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<div align="center">  
+<img src="https://i.pinimg.com/originals/ce/f1/b6/cef1b6fa8e8f873b9c69cecd623bbaa6.gif" width="150" height="150" />
+</div>
+
 # Stats
 
 <p align="center">
@@ -35,6 +29,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-Qt-052F15?style=for-the-badge&logo=qt&logoColor=green">
 </div>
   
-## Graph
+## Social media
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=TheWatcherMultiversal&theme=elegant&hide_border=true&area=true)
+<div align="center">  
+<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1a61ff?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.reddit.com/user/ThePenguinUniverse" target="_blank"><img src="https://img.shields.io/badge/-Reddit-f1753a?style=for-the-badge&logo=reddit&logoColor=white"</a>
+</div>
