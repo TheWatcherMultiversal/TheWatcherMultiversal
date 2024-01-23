@@ -28,10 +28,3 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/-Css-024550?style=for-the-badge&logo=css3&logoColor=cyan">
 <img src="https://img.shields.io/badge/-Qt-052F15?style=for-the-badge&logo=qt&logoColor=green">
 </div>
-  
-## Social media
-
-<div align="center">  
-<a href="https://thewatchermultiversal.github.io/Blog/about.html" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1a61ff?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.reddit.com/user/ThePenguinUniverse" target="_blank"><img src="https://img.shields.io/badge/-Reddit-f1753a?style=for-the-badge&logo=reddit&logoColor=white"</a>
-</div>
