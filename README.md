@@ -1,8 +1,3 @@
-<!---
-TheWatcherMultiversal/TheWatcherMultiversal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <div align="center">  
 <img src="https://i.pinimg.com/originals/ce/f1/b6/cef1b6fa8e8f873b9c69cecd623bbaa6.gif" width="150" height="150" />
 </div>
